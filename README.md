@@ -1,13 +1,3 @@
-# Information Speed Theory
-
-> **A revolutionary theoretical framework proposing that the speed of light is not a universal limit, but an electromagnetic channel constraint**
-
-[![Theory Status](https://img.shields.io/badge/Status-Complete-success)]()
-[![Documentation](https://img.shields.io/badge/Docs-320%20pages-blue)]()
-[![Version](https://img.shields.io/badge/Version-2.0-orange)]()
-
-## 🌟 Overview
-
 This repository contains a comprehensive theoretical framework consisting of **seven fundamental insights** that challenge our understanding of physical measurements, the limits of knowledge, and the structure of reality itself.
 
 **Central Thesis:** The speed of light (c) is not a universal physical limit, but rather a constraint of the electromagnetic (EM) information channel. All our measurements are structurally limited by the fact that **all energy transitions in detectors are electromagnetic processes**.
